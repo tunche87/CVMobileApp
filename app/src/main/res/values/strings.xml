@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">CV Mobile App</string>
+    <string name="name">Jose Torres</string>
+    <string name="technical_specialist_offset">Técnico TI *  Specialista en Impresión Offset</string>
+    <string name="fecha_nacimiento">21 de Julio 1987</string>
+    <string name="movil">+51 983 790 255</string>
+    <string name="ciudad">Lima, Peru</string>
+    <string name="mail">jolutoshu26@gmail.com</string>
+    <string name="i_am_josé">Con 15 años de experiencia en la Indutria gráfica, me desempeñando como Maquinista de Impresión Offset, cursando la carrera de Computación e Informática modulos completados de Técnico en Ofimática y Desarrolos de Aplicaciones.</string>
+    <string name="experiencia">Experiencie</string>
+    <string name="intereses">Interest</string>
+    <string name="antecedentes">Background</string>
+    <string name="clientes">Portafolio</string>
+
+</resources>
